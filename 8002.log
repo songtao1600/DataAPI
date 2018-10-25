@@ -1,0 +1,16 @@
+nohup: ignoring input
+aaaaaa
+None None okef btc/usdt None 100
+select symbol, source, channel, sample_time,CAST(open_ AS CHAR(50)) as open_,CAST(high_ AS CHAR(50)) as high_,CAST(low_ AS CHAR(50)) as low_,CAST(close_ AS CHAR(50)) as close_, CAST(volume AS CHAR(50)) as volume,CAST(coin_volume AS CHAR(50)) as coin_volume,DATE_FORMAT(update_time,"%Y-%m-%d %H:%i:%S") as update_time   from kline_data_1m  where 1=1 and source ="okef" and symbol ="btc/usdt" order by sample_time desc limit 100
+aaaaaa
+None None okef btc/usdt None 100
+select symbol, source, channel, sample_time,CAST(open_ AS CHAR(50)) as open_,CAST(high_ AS CHAR(50)) as high_,CAST(low_ AS CHAR(50)) as low_,CAST(close_ AS CHAR(50)) as close_, CAST(volume AS CHAR(50)) as volume,CAST(coin_volume AS CHAR(50)) as coin_volume,DATE_FORMAT(update_time,"%Y-%m-%d %H:%i:%S") as update_time   from kline_data_1m  where 1=1 and source ="okef" and symbol ="btc/usdt" order by sample_time desc limit 100
+aaaaaa
+None None bitmex xbt/usd None 36000
+select symbol, source, channel, sample_time,CAST(open_ AS CHAR(50)) as open_,CAST(high_ AS CHAR(50)) as high_,CAST(low_ AS CHAR(50)) as low_,CAST(close_ AS CHAR(50)) as close_, CAST(volume AS CHAR(50)) as volume,CAST(coin_volume AS CHAR(50)) as coin_volume,DATE_FORMAT(update_time,"%Y-%m-%d %H:%i:%S") as update_time   from kline_data_1m  where 1=1 and source ="bitmex" and symbol ="xbt/usd" order by sample_time desc limit 36000
+aaaaaa
+None None bitmex xbt/usd None 36000
+select symbol, source, channel, sample_time,CAST(open_ AS CHAR(50)) as open_,CAST(high_ AS CHAR(50)) as high_,CAST(low_ AS CHAR(50)) as low_,CAST(close_ AS CHAR(50)) as close_, CAST(volume AS CHAR(50)) as volume,CAST(coin_volume AS CHAR(50)) as coin_volume,DATE_FORMAT(update_time,"%Y-%m-%d %H:%i:%S") as update_time   from kline_data_1m  where 1=1 and source ="bitmex" and symbol ="xbt/usd" order by sample_time desc limit 36000
+aaaaaa
+None None bitmex xbt/usd None 36000
+select symbol, source, channel, sample_time,CAST(open_ AS CHAR(50)) as open_,CAST(high_ AS CHAR(50)) as high_,CAST(low_ AS CHAR(50)) as low_,CAST(close_ AS CHAR(50)) as close_, CAST(volume AS CHAR(50)) as volume,CAST(coin_volume AS CHAR(50)) as coin_volume,DATE_FORMAT(update_time,"%Y-%m-%d %H:%i:%S") as update_time   from kline_data_1m  where 1=1 and source ="bitmex" and symbol ="xbt/usd" order by sample_time desc limit 36000

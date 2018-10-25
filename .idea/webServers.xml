@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7e588005-f113-4acf-a81b-9c8a55b752b4" name="172.20.10.11" url="http://172.20.10.11">
+        <fileTransfer host="172.20.10.11" port="21" rootFolder="/home/songtao">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
